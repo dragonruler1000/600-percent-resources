@@ -1,9 +1,9 @@
 {
     "name": "600-percent-resources",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "title": "600% Resources",
     "author": "Minecraftchest2",
-    "factorio_version": "2.0",
+    "factorio_version": "2.1",
     "dependencies": ["base >= 2.0"],
     "description": "This mod adds in a new map generation preset that sets all the resource settings to 600%"
 }
